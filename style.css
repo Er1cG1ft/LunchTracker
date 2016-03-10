@@ -67,6 +67,13 @@ div {
 #right {
   background-color:lightblue;
   margin-left: 200px;
+  width:500px;
+  height:300px;
+}
+
+#piechart {
+  width:300px;
+  height:300px;
 }
 
 .record {
