@@ -62,6 +62,8 @@ var main = function() {
             date.getMinutes();
     $('#date').text(upDate);
     localStorage.setItem('date', upDate);
+    
+    location.reload();
   });
 
 }

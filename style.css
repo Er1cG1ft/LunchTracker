@@ -81,6 +81,8 @@ div {
   border:1px solid black;
   border-radius:5px;
   padding: 5px;
+  width:150px;
+  font-size:20px;
 }
 
 html {
